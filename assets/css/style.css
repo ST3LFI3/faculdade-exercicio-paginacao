@@ -1,0 +1,52 @@
+﻿body{
+    background-color: #f3f7fc !important;
+    color: #242526 !important;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.item{
+    display: none !important;
+}
+
+.active{
+    display: block !important;
+}
+
+.box-image{
+    /* height: 300px; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e7e7e7;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.box-image img{
+    height: 300px;    
+}
+
+.title-receita{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.subtitle{
+    font-size: 14px;    
+    font-weight: 600;
+}
+
+ul{
+    font-size: 14px;
+    line-height: 1.2rem;
+}
+
+ul li{
+    color: #46484bb9;
+
+}
